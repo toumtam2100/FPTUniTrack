@@ -1,0 +1,2406 @@
+[
+    {
+        "SubjectID": 10316,
+        "SubjectCode": "ENT001",
+        "SyllabusName": "Tiếng Anh 1",
+        "Score": [
+            {
+                "scoreName": "Assignments",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Midterm",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10317,
+        "SubjectCode": "ENT104",
+        "SyllabusName": "Tiếng Anh 2",
+        "Score": [
+            {
+                "scoreName": "Assessment",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10318,
+        "SubjectCode": "ENT203",
+        "SyllabusName": "Tiếng Anh 3",
+        "Score": [
+            {
+                "scoreName": "Assessment",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10319,
+        "SubjectCode": "ENT303",
+        "SyllabusName": "Tiếng Anh 4",
+        "Score": [
+            {
+                "scoreName": "Assessment",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "ENT203",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10320,
+        "SubjectCode": "ENT403",
+        "SyllabusName": "Tiếng Anh 5",
+        "Score": [
+            {
+                "scoreName": "Assessment",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "ENT303",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10321,
+        "SubjectCode": "ENT503",
+        "SyllabusName": "Tiếng Anh 6",
+        "Score": [
+            {
+                "scoreName": "Assessment",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "ENT403",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9215,
+        "SubjectCode": "LUK1",
+        "SyllabusName": "LUK Global 1",
+        "Score": [
+            {
+                "scoreName": "Check 1",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Online Learning",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Check 2",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Projects & Observation",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9217,
+        "SubjectCode": "LUK2",
+        "SyllabusName": "LUK Global 2",
+        "Score": [
+            {
+                "scoreName": "Check 1",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Online Learning",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Check 2",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Projects & Observation",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "LUK1",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9218,
+        "SubjectCode": "LUK3",
+        "SyllabusName": "LUK Global 3",
+        "Score": [
+            {
+                "scoreName": "Check 1",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Online Learning",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Check 2",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Projects & Observation",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "LUK2",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9219,
+        "SubjectCode": "LUK4",
+        "SyllabusName": "LUK Global 4",
+        "Score": [
+            {
+                "scoreName": "Check 1",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Online Learning",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Check 2",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Projects & Observation",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "LUK3",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9220,
+        "SubjectCode": "LUK5",
+        "SyllabusName": "LUK Global 5",
+        "Score": [
+            {
+                "scoreName": "Check 1",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Online Learning",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Check 2",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Projects & Observation",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "LUK4",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 4484,
+        "SubjectCode": "LUK6",
+        "SyllabusName": "Little UK Level 6",
+        "Score": [
+            {
+                "scoreName": "Check 1",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Online Learning",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Check 2",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Projects & Observation",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "LUK5",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 7820,
+        "SubjectCode": "OTP101",
+        "SyllabusName": "Định hướng và Rèn luyện tập trung(Orientaiton and General Training Program)",
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10086,
+        "SubjectCode": "VOV114",
+        "SyllabusName": "Vovinam 1",
+        "Score": [
+            {
+                "scoreName": "Final exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10087,
+        "SubjectCode": "VOV124",
+        "SyllabusName": "Vovinam 2",
+        "Score": [
+            {
+                "scoreName": "Final exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "VOV114",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10088,
+        "SubjectCode": "VOV134",
+        "SyllabusName": "Vovinam 3",
+        "Score": [
+            {
+                "scoreName": "Final exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "VOV124",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10089,
+        "SubjectCode": "COV111",
+        "SyllabusName": "Cờ Vua 1_Chess 1",
+        "Score": [
+            {
+                "scoreName": "Mid-term",
+                "percentage": "33.3%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "66.7%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "66.7%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10091,
+        "SubjectCode": "COV121",
+        "SyllabusName": "Cờ Vua 2_Chess 2",
+        "Score": [
+            {
+                "scoreName": "Mid-term",
+                "percentage": "33.3%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "66.7%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "66.7%"
+            }
+        ],
+        "PREQUISITE": "COV111",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10092,
+        "SubjectCode": "COV131",
+        "SyllabusName": "Cờ Vua 3_Chess 3",
+        "Score": [
+            {
+                "scoreName": "Mid-term",
+                "percentage": "33.3%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "66.7%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "66.7%"
+            }
+        ],
+        "PREQUISITE": "COV121",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9998,
+        "SubjectCode": "DNG103",
+        "SyllabusName": "Nhạc cụ truyền thống-Đàn nguyệt",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "70%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "70%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9999,
+        "SubjectCode": "DBA103",
+        "SyllabusName": "Nhạc cụ truyền thống - Đàn Bầu",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "70%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "70%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9997,
+        "SubjectCode": "DNH103",
+        "SyllabusName": "Nhạc cụ truyền thống- Đàn Nhị",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "70%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "70%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9996,
+        "SubjectCode": "DSA103",
+        "SyllabusName": "Nhạc cụ truyền thống- Sáo trúc",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "70%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "70%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9995,
+        "SubjectCode": "DTB103",
+        "SyllabusName": "Nhạc cụ truyền thống- Đàn Tỳ bà",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "70%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "70%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9994,
+        "SubjectCode": "TRG103",
+        "SyllabusName": "Nhạc cụ truyền thống -Trống dân tộc",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "70%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "70%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10003,
+        "SubjectCode": "MLN111",
+        "SyllabusName": "Philosophy of Marxism – Leninism - Triết học Mác - Lê-nin",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress tests",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10004,
+        "SubjectCode": "MLN122",
+        "SyllabusName": "Political economics of Marxism – Leninism - Kinh tế chính trị Mác - Lê-nin",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress tests",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10002,
+        "SubjectCode": "MLN131",
+        "SyllabusName": "Scientific socialism - Chủ nghĩa xã hội khoa học",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress tests",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "MLN111,MLN121",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10005,
+        "SubjectCode": "HCM202",
+        "SyllabusName": "HCM Ideology - Tư tưởng Hồ Chí Minh",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress tests",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "MLN111,MLN121",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10360,
+        "SubjectCode": "VNR202",
+        "SyllabusName": "History of CPV - Lịch sử Đảng Cộng sản Việt Nam",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress tests",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "MLN111,MLN121",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10358,
+        "SubjectCode": "EXE101",
+        "SyllabusName": "Experiential Entrepreneurship 1 - Trải nghiệm khởi nghiệp 1",
+        "Score": [
+            {
+                "scoreName": "Constructivism Presentations",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Group Assignment 1",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Group Assignment 2 ",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Group Assignment 3 ",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Presentation",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10361,
+        "SubjectCode": "EXE201",
+        "SyllabusName": "Experiential Entrepreneurship 2 - Trải nghiệm khởi nghiệp 2",
+        "Score": [
+            {
+                "scoreName": "Constructivism Presentations",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Group Assignment 1",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Group Assignment 2 ",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Group Assignment 3 ",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Presentation",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "EXE101",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10275,
+        "SubjectCode": "LAW102",
+        "SyllabusName": "Business Law and Ethics Fundamentals_Luật và Đạo đức kinh doanh",
+        "Score": [
+            {
+                "scoreName": "Class Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Essay Test",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Group assignments",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Individual assignment",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "TUTORIALS and Quiz",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10326,
+        "SubjectCode": "MAE101",
+        "SyllabusName": "Mathematics for Engineering_Toán cho ngành kỹ thuật",
+        "Score": [
+            {
+                "scoreName": "Assignments/Exercises",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10328,
+        "SubjectCode": "MAI391",
+        "SyllabusName": "Toán cho học máy",
+        "Score": [
+            {
+                "scoreName": "Assignments/Exercises",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Computer Project",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "MAE101",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10327,
+        "SubjectCode": "MAS202",
+        "SyllabusName": "Applied Statistics for Business_Thống kê ứng dụng trong kinh doanh",
+        "Score": [
+            {
+                "scoreName": "Essay test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Group project",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Homework exercises",
+                "percentage": "14%"
+            },
+            {
+                "scoreName": "Quizzes",
+                "percentage": "21%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9241,
+        "SubjectCode": "MAD101",
+        "SyllabusName": "Toán rời rạc",
+        "Score": [
+            {
+                "scoreName": "Assignments/Exercises",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9243,
+        "SubjectCode": "MAS291",
+        "SyllabusName": "Statistics &amp; Probability_Xác suất thống kê",
+        "Score": [
+            {
+                "scoreName": "Assignments",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Computer Project",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final exam",
+                "percentage": "35%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "35%"
+            }
+        ],
+        "PREQUISITE": "MAE101 or MAC101",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9594,
+        "SubjectCode": "MKT301",
+        "SyllabusName": "Marketing Research_Nghiên cứu Marketing",
+        "Score": [
+            {
+                "scoreName": "Class participation and preparation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Essay Test",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Individual Presentation of Milestones",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Project Final Presentation and Report",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Quizzes",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "MKT101",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9569,
+        "SubjectCode": "PRF192",
+        "SyllabusName": "Programming Fundamentals_Cơ sở lập trình",
+        "Score": [
+            {
+                "scoreName": "Progress test",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Assignment",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Workshop",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9430,
+        "SubjectCode": "SDN301m",
+        "SyllabusName": "Server-Side development with NodeJS, Express, and MongoDB_Phát triển Server-Side với NodeJS, Express và MongoDB",
+        "Score": [
+            {
+                "scoreName": "Progress test",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Project",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "DBI202, FER201m",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10014,
+        "SubjectCode": "CEA201",
+        "SyllabusName": "Computer Organization and Architecture_Tổ chức và Kiến trúc máy tính",
+        "Score": [
+            {
+                "scoreName": "Exercises",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Assignment",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10015,
+        "SubjectCode": "CSD201",
+        "SyllabusName": "Data Structures and Algorithm_Cấu trúc dữ liệu và giải thuật",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Assignment",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "PRO192",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9986,
+        "SubjectCode": "CSD203",
+        "SyllabusName": "Data Structures and Algorithm with Python_Cấu trúc dữ liệu và giải thuật với Python",
+        "Score": [
+            {
+                "scoreName": "Progress Test 1",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress Test 2",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Assignment 1",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Assignment 2",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "PFP191",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10200,
+        "SubjectCode": "CSD301",
+        "SyllabusName": "Advanced Algorithms_Giải thuật nâng cao",
+        "Score": [
+            {
+                "scoreName": "3 Single Round Matches on TopCoder.com",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Project",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "CSD202",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9982,
+        "SubjectCode": "CSI104",
+        "SyllabusName": "Introduction to Computer Science_Nhập môn khoa học máy tính",
+        "Score": [
+            {
+                "scoreName": "Group presentation",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Lab",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Progress test",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10084,
+        "SubjectCode": "SSG104",
+        "SyllabusName": "Communication and In-Group Working Skills_Kỹ năng giao tiếp và cộng tác",
+        "Score": [
+            {
+                "scoreName": "Activity",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Group asm",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Group Project",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Quiz",
+                "percentage": "5%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "20%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10085,
+        "SubjectCode": "SSL101c",
+        "SyllabusName": "Academic Skills for University Success_Kỹ năng học tập ở Đại học",
+        "Score": [
+            {
+                "scoreName": "Final Exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10018,
+        "SubjectCode": "SWD392",
+        "SyllabusName": "Software Architecture and Design_Kiến trúc và thiết kế phần mềm",
+        "Score": [
+            {
+                "scoreName": "Course Project",
+                "percentage": "45%"
+            },
+            {
+                "scoreName": "Progress test",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "SWE201c, PRO192",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10174,
+        "SubjectCode": "SWE201c",
+        "SyllabusName": "Introduction to Software Engineering_Nhập môn kỹ thuật phần mềm",
+        "Score": [
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Practical Exam Resit",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "60%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "60%"
+            }
+        ],
+        "PREQUISITE": "PRO192",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10020,
+        "SubjectCode": "SWR302",
+        "SyllabusName": "Software Requirement_Yêu cầu phần mềm",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Practical Exam Resit",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "25%"
+            }
+        ],
+        "PREQUISITE": "SWE201c",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9848,
+        "SubjectCode": "SWT301",
+        "SyllabusName": "Software Testing_Kiểm thử phần mềm",
+        "Score": [
+            {
+                "scoreName": "Lab",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Presentation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Practical Exam Resit",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "25%"
+            }
+        ],
+        "PREQUISITE": "SWE201c",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9893,
+        "SubjectCode": "SYB302c",
+        "SyllabusName": "Entrepreneurship_Khởi sự doanh nghiệp",
+        "Score": [
+            {
+                "scoreName": "Final Exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9873,
+        "SubjectCode": "OJT202",
+        "SyllabusName": "On-the-job training_Đào tạo trong môi trường thực tế",
+        "Score": [
+            {
+                "scoreName": "Professional knowledge and skills",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Soft skillst",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Attitude",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10114,
+        "SubjectCode": "OSG202",
+        "SyllabusName": "Operating System_Hệ điều hành",
+        "Score": [
+            {
+                "scoreName": "Lab",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Presentation",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10339,
+        "SubjectCode": "PRM392",
+        "SyllabusName": "Mobile Programming_Lập trình di động",
+        "Score": [
+            {
+                "scoreName": "Project",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "PRO192",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10338,
+        "SubjectCode": "PRN211",
+        "SyllabusName": "Basis Cross-Platform Application Programming With .NET_Lập trình ứng dụng đa nền tảng cơ bản với .NET",
+        "Score": [
+            {
+                "scoreName": "Group Project",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Assignment",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "25%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "PRO192 & DBI202",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10296,
+        "SubjectCode": "PRO192",
+        "SyllabusName": "Object-Oriented Programming_Lập trình hướng đối tượng",
+        "Score": [
+            {
+                "scoreName": "Lab",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Assignment",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "PRF192",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10173,
+        "SubjectCode": "NWC203c",
+        "SyllabusName": "Computer Networking_Mạng máy tính",
+        "Score": [
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Practical Exam Resit",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10041,
+        "SubjectCode": "NWC204",
+        "SyllabusName": "Computer Networking_Mạng máy tính",
+        "Score": [
+            {
+                "scoreName": "Lab",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Participation in discussions",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9226,
+        "SubjectCode": "JPD113",
+        "SyllabusName": "Elementary Japanese 1- A1.1_Tiếng Nhật sơ cấp 1-A1.1",
+        "Score": [
+            {
+                "scoreName": "Small Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9228,
+        "SubjectCode": "JPD123",
+        "SyllabusName": "Elementary Japanese 1-A1.2_Tiếng Nhật sơ cấp 1-A1.2",
+        "Score": [
+            {
+                "scoreName": "Small Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD113",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 6021,
+        "SubjectCode": "JPD133",
+        "SubjectName": "Elementary Japanese 1-A1/A2_Tiếng Nhật sơ cấp 1-A1/A2",
+        "SyllabusName": "Tiếng Nhật sơ cấp 1-A1/A2",
+        "Score": [
+            {
+                "scoreName": "Small Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD123",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 998,
+        "SubjectCode": "JPD111",
+        "SubjectName": "Elementary Japanese 1.1_Tiếng Nhật sơ cấp 1.1",
+        "SyllabusName": "Tiếng Nhật sơ cấp 1.1",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1000,
+        "SubjectCode": "JPD112",
+        "SyllabusName": "Tiếng Nhật sơ cấp 1",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1135,
+        "SubjectCode": "JPD121",
+        "SyllabusName": "Tiếng Nhật sơ cấp 1.2",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD111",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1001,
+        "SubjectCode": "JPD122",
+        "SyllabusName": "Tiếng Nhật sơ cấp 2",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1136,
+        "SubjectCode": "JPD131",
+        "SyllabusName": "Tiếng Nhật sơ cấp 1.3",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD121",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1004,
+        "SubjectCode": "JPD222",
+        "SyllabusName": "Tiếng Nhật sơ trung cấp 1",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD112&JPD122",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1005,
+        "SubjectCode": "JPD223",
+        "SyllabusName": "Tiếng Nhật sơ trung cấp 2",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD112&JPD122",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1006,
+        "SubjectCode": "JPD322",
+        "SyllabusName": "Tiếng Nhật trung cấp 1",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD222&JPD223",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1007,
+        "SubjectCode": "JPD323",
+        "SyllabusName": "Tiếng Nhật trung cấp 2",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD222&JPD223",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1008,
+        "SubjectCode": "JPD324",
+        "SyllabusName": "Tiếng Nhật trung cấp 3",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD322&JPD323",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 1009,
+        "SubjectCode": "JPD325",
+        "SyllabusName": "Tiếng Nhật trung cấp 4",
+        "Score": [
+            {
+                "scoreName": "Progress Test",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Participation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Mid-term",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "JPD322&JPD323",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10010,
+        "SubjectCode": "DBI202",
+        "SyllabusName": "Database Systems_Các hệ cơ sở dữ liệu",
+        "Score": [
+            {
+                "scoreName": "Lab",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Assignment",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10021,
+        "SubjectCode": "LAB211",
+        "SyllabusName": "OOP with Java Lab_Thực hành OOP với Java",
+        "Score": [],
+        "PREQUISITE": "PRO192",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9892,
+        "SubjectCode": "LAW201c",
+        "SyllabusName": "International Business Law_Luật kinh doanh quốc tế",
+        "Score": [
+            {
+                "scoreName": "Final Exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "IBI101",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10022,
+        "SubjectCode": "WDP301",
+        "SyllabusName": "Web Development Project_Dự án phát triển Web",
+        "Score": [
+            {
+                "scoreName": "On-going Assessment 1",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "On-going Assessment 2",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "On-going Assessment 3",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Final Project Presentation:",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "FER201m, SDN301m",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10179,
+        "SubjectCode": "WDU203c",
+        "SyllabusName": "UI/UX Design_Thiết kế trải nghiệm người dùng",
+        "Score": [
+            {
+                "scoreName": "Final Exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9966,
+        "SubjectCode": "WED201c",
+        "SyllabusName": "Web Design_Thiết kế web",
+        "Score": [
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Practical Exam Resit",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 6617,
+        "SubjectCode": "PRJ301",
+        "SyllabusName": "Java Web Application Development_Phát triển ứng dụng Java web",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Progress Test 1",
+                "percentage": "5%"
+            },
+            {
+                "scoreName": "Progress Test 2",
+                "percentage": "5%"
+            },
+            {
+                "scoreName": "Workshop 1",
+                "percentage": "5%"
+            },
+            {
+                "scoreName": "Workshop 2",
+                "percentage": "5%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "20%"
+            }
+        ],
+        "PREQUISITE": "DBI202, PRO192",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10031,
+        "SubjectCode": "IOT102",
+        "SyllabusName": "Internet of Things_Internet vạn vật",
+        "Score": [
+            {
+                "scoreName": "Active learning",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Presentation",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "10%"
+            },
+            {
+                "scoreName": "Project",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10030,
+        "SubjectCode": "ISC301",
+        "SyllabusName": "E-Commerce_Thương mại điện tử",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Progress Test",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "40%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10177,
+        "SubjectCode": "ITE302c",
+        "SyllabusName": "Ethics in IT_Đạo đức trong CNTT",
+        "Score": [
+            {
+                "scoreName": "Final Exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10208,
+        "SubjectCode": "ITA203c",
+        "SyllabusName": "Information System Overview_Nhập môn HTTT",
+        "Score": [
+            {
+                "scoreName": "Final Exam",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10297,
+        "SubjectCode": "SEP490",
+        "SyllabusName": "SE Capstone Project_Đồ án tốt nghiệp KTPM",
+        "Score": [
+            {
+                "scoreName": "On-going Assessment",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Project Presentation:",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+        
+    },
+    {
+        "SubjectID": 10347,
+        "SubjectCode": "SWP391",
+        "SyllabusName": "Software development project_Dự án phát triển phần mềm",
+        "Score": [
+            {
+                "scoreName": "On-going Assessment 1",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "On-going Assessment 2",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "On-going Assessment 3",
+                "percentage": "25%"
+            },    
+            {
+                "scoreName": "Final Project Presentation:",
+                "percentage": "40%"
+            }
+        ],
+        "PREQUISITE": "PRJ301, SWE201c",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9426,
+        "SubjectCode": "FER201m",
+        "SyllabusName": "Front-End web development with React_Phát triển web Front-End với React",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Labs",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Progress test",
+                "percentage": "15%"
+            },    
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "FER201m",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10104,
+        "SubjectCode": "ENW492c",
+        "SyllabusName": "Academic Writing Skills_Kỹ năng viết học thuật",
+        "Score": [
+            {
+                "scoreName": "Final exam PE",
+                "percentage": "100%"
+            },
+            {
+                "scoreName": "Final exam PE Resit",
+                "percentage": "100%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 9964,
+        "SubjectCode": "MMA301",
+        "SyllabusName": "Multiplatform Mobile App Development_Phát triển ứng dụng di động đa nền tảng",
+        "Score": [
+            {
+                "scoreName": "Assignment",
+                "percentage": "15%"
+            },
+            {
+                "scoreName": "Project",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "20%"
+            },
+            {
+                "scoreName": "Progress test",
+                "percentage": "15%"
+            },    
+            {
+                "scoreName": "Final exam",
+                "percentage": "30%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "30%"
+            }
+        ],
+        "PREQUISITE": "FER201m; SDN301m",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10128,
+        "SubjectCode": "PMG201c",
+        "SyllabusName": "Project management_Quản trị dự án",
+        "Score": [
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Practical Exam Resit",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    },
+    {
+        "SubjectID": 10178,
+        "SubjectCode": "PMG202c",
+        "SyllabusName": "Project Management_Quản trị dự án",
+        "Score": [
+            {
+                "scoreName": "Practical Exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Practical Exam Resit",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam",
+                "percentage": "50%"
+            },
+            {
+                "scoreName": "Final Exam Resit",
+                "percentage": "50%"
+            }
+        ],
+        "PREQUISITE": "",
+        "IsActive": true
+    }
+]

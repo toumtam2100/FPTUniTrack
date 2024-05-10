@@ -1,0 +1,7 @@
+{
+    "AssessmentID": "1",
+    "CourseID ": "1",
+    "AssessmentName ": "Test",
+    "Weight ": "10",
+    "KEY ": {"Reference.Course": "CourseID"}
+}

@@ -1,0 +1,38 @@
+[
+    {
+        "SemesterID": "Spring2022",
+        "Name": "Spring 2022",
+        "StartDate": "2022-01-01T00:00:00",
+        "EndDate": "2022-03-30T00:00:00"
+    },
+    {
+        "SemesterID": "Summer2022",
+        "Name": "Summer 2022",
+        "StartDate": "2022-04-01T00:00:00",
+        "EndDate": "2022-08-30T00:00:00"
+    },
+    {
+        "SemesterID": "Fall2022",
+        "Name": "Fall 2022",
+        "StartDate": "2022-09-01T00:00:00",
+        "EndDate": "2022-12-30T00:00:00"
+    },
+    {
+        "SemesterID": "Spring2023",
+        "Name": "Spring 2023",
+        "StartDate": "2023-01-01T00:00:00",
+        "EndDate": "2023-03-30T00:00:00"
+    },
+    {
+        "SemesterID": "Summer2023",
+        "Name": "Summer 2023",
+        "StartDate": "2023-04-01T00:00:00",
+        "EndDate": "2023-08-30T00:00:00"
+    },
+    {
+        "SemesterID": "Fall2023",
+        "Name": "Fall 2023",
+        "StartDate": "2023-09-01T00:00:00",
+        "EndDate": "2023-12-30T00:00:00"
+    }
+]

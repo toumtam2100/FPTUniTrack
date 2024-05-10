@@ -1,0 +1,122 @@
+[
+    {
+        "id": "SonNHHE17",
+        "LectureUserName": "SonNHHE17",
+        "DateOfBirth": "2002-02-17T00:00:00",
+        "Gender": true,
+        "IDCard": "43432523532",
+        "Address": "Phạm Văn Đồng",
+        "Phone": "0124942412",
+        "Email": "SonNHHE@fe.edu.vn",
+        "Fullname": "Nguyễn Hồng Sơn",
+        "IsActive": true
+    },
+    {
+        "id": "ANaBDK45",
+        "LectureUserName": "ANaBDK45",
+        "DateOfBirth": "1995-08-21T00:00:00",
+        "Gender": false,
+        "IDCard": "53245678432",
+        "Address": "Lê Lợi Street",
+        "Phone": "0987654321",
+        "Email": "AnhTran@fe.edu.vn",
+        "Fullname": "Trần Thị Anh",
+        "IsActive": true
+    },
+    {
+        "id": "HoangLTH",
+        "LectureUserName": "HoangLTH",
+        "DateOfBirth": "1990-04-05T00:00:00",
+        "Gender": true,
+        "IDCard": "68723987432",
+        "Address": "Nguyễn Du Avenue",
+        "Phone": "0978234567",
+        "Email": "HoangLTH@fe.edu.vn",
+        "Fullname": "Lê Thanh Hoàng",
+        "IsActive": true
+    },
+    {
+        "id": "MaiPTT",
+        "LectureUserName": "MaiPTT",
+        "DateOfBirth": "1998-12-15T00:00:00",
+        "Gender": false,
+        "IDCard": "43785612345",
+        "Address": "Lý Thường Kiệt Street",
+        "Phone": "0912345678",
+        "Email": "MaiPTT@fe.edu.vn",
+        "Fullname": "Mai Phương Thu",
+        "IsActive": true
+    },
+    {
+        "id": "LongVN",
+        "LectureUserName": "LongVN",
+        "DateOfBirth": "2000-06-30T00:00:00",
+        "Gender": true,
+        "IDCard": "54327895621",
+        "Address": "Trần Hưng Đạo Street",
+        "Phone": "0981234567",
+        "Email": "LongVN@fe.edu.vn",
+        "Fullname": "Vũ Nhật Long",
+        "IsActive": true
+    },
+    {
+        "id": "HienLQ",
+        "LectureUserName": "HienLQ",
+        "DateOfBirth": "1997-03-10T00:00:00",
+        "Gender": false,
+        "IDCard": "32875467890",
+        "Address": "Ngô Quyền Street",
+        "Phone": "0965432187",
+        "Email": "HienLQ@fe.edu.vn",
+        "Fullname": "Lê Quỳnh Hiền",
+        "IsActive": true
+    },
+    {
+        "id": "DatPV",
+        "LectureUserName": "DatPV",
+        "DateOfBirth": "2001-09-25T00:00:00",
+        "Gender": true,
+        "IDCard": "49876543218",
+        "Address": "Trường Chinh Street",
+        "Phone": "0919876543",
+        "Email": "DatPV@fe.edu.vn",
+        "Fullname": "Phạm Văn Đạt",
+        "IsActive": true
+    },
+    {
+        "id": "LinhTH",
+        "LectureUserName": "LinhTH",
+        "DateOfBirth": "1994-11-20T00:00:00",
+        "Gender": false,
+        "IDCard": "35678901234",
+        "Address": "Lê Quang Đạo Street",
+        "Phone": "0976543210",
+        "Email": "LinhTH@fe.edu.vn",
+        "Fullname": "Nguyễn Thị Linh",
+        "IsActive": true
+    },
+    {
+        "id": "TuanVH",
+        "LectureUserName": "TuanVH",
+        "DateOfBirth": "1996-07-12T00:00:00",
+        "Gender": true,
+        "IDCard": "87654321098",
+        "Address": "Hồ Chí Minh Street",
+        "Phone": "0901234987",
+        "Email": "TuanVH@fe.edu.vn",
+        "Fullname": "Võ Hoàng Tuấn",
+        "IsActive": true
+    },
+    {
+        "id": "MyPT",
+        "LectureUserName": "MyPT",
+        "DateOfBirth": "1999-02-28T00:00:00",
+        "Gender": false,
+        "IDCard": "76543210987",
+        "Address": "Nguyễn Thị Minh Khai Street",
+        "Phone": "0987654321",
+        "Email": "MyPT@fe.edu.vn",
+        "Fullname": "Phan Thị Mỹ",
+        "IsActive": true
+    }
+]

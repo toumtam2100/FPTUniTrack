@@ -1,0 +1,90 @@
+[
+  {
+      "_id": "65490045b154c010b17ff70b",
+      "ClassID": "SE1701",
+      "StudentGrades": [
+          {
+              "_id": "654ad76f8bf07017f9d66e6a",
+              "StudentID": "HE170001",
+              "SubjectID": 10326,
+              "Score": [
+
+                  {
+                      "_id": "654ad76f8bf07017f9d66e6b",
+                      "scoreName": "Assignments/Exercises",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e6c",
+                      "scoreName": "Progress Test",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e6d",
+                      "scoreName": "Final exam",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e6e",
+                      "scoreName": "Final Exam Resit",
+                      "grade": ""
+                  }
+              ]
+          },
+          {
+              "_id": "654ad76f8bf07017f9d66e6f",
+              "StudentID": "HE170002",
+              "SubjectID": 10326,
+              "Score": [
+                  {
+                      "_id": "654ad76f8bf07017f9d66e70",
+                      "scoreName": "Assignments/Exercises",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e71",
+                      "scoreName": "Progress Test",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e72",
+                      "scoreName": "Final exam",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e73",
+                      "scoreName": "Final Exam Resit",
+                      "grade": ""
+                  }
+              ]
+          },
+          {
+              "_id": "654ad76f8bf07017f9d66e74",
+              "StudentID": "HE170003",
+              "SubjectID": 10326,
+              "Score": [
+                  {
+                      "_id": "654ad76f8bf07017f9d66e75",
+                      "scoreName": "Assignments/Exercises",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e76",
+                      "scoreName": "Progress Test",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e77",
+                      "scoreName": "Final exam",
+                      "grade": "9"
+                  },
+                  {
+                      "_id": "654ad76f8bf07017f9d66e78",
+                      "scoreName": "Final Exam Resit",
+                      "grade": ""
+                  }
+              ]
+          }
+      ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "ID": 1,
+        "Title": "Test",
+        "Content": "",
+        "DateTime": "2016-01-01 00:00:00"
+    },
+    {
+        "ID": 2,
+        "Title": "New feature added",
+        "Content": "We have added a new feature to the app. Check it out!",
+        "DateTime": "2016-02-15 10:30:00"
+    },
+    {
+        "ID": 3,
+        "Title": "Important update",
+        "Content": "Please update your app to the latest version to avoid any issues.",
+        "DateTime": "2016-03-10 14:45:00"
+    },
+    {
+        "ID": 4,
+        "Title": "Scheduled maintenance",
+        "Content": "We will be performing scheduled maintenance on our servers. The app may be unavailable during this time.",
+        "DateTime": "2016-04-05 22:00:00"
+    },
+    {
+        "ID": 5,
+        "Title": "New pricing plan",
+        "Content": "We have updated our pricing plans. Please visit our website for more information.",
+        "DateTime": "2016-05-20 08:00:00"
+    },
+    {
+        "ID": 6,
+        "Title": "Holiday hours",
+        "Content": "Our customer support team will have reduced hours during the upcoming holiday. We apologize for any inconvenience.",
+        "DateTime": "2016-06-30 12:00:00"
+    }
+]

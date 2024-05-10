@@ -1,0 +1,13 @@
+{
+    "Schedule":{
+        "ScheduleId":1,
+        "day":{
+            "DayId":1,
+            "Name":"Monday"
+        },
+        "period":{
+            "TimeId":1,
+            "Name":"8:00"
+        }
+    }
+}

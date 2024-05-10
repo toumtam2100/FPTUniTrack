@@ -1,0 +1,22 @@
+[
+  {
+      "_id": "6549b015b112d6ebb0bc651d",
+      "scoreName": "Assignments/Exercises",
+      "grade": "9"
+  },
+  {
+      "_id": "6549b015b112d6ebb0bc651e",
+      "scoreName": "Progress Test",
+      "grade": "9"
+  },
+  {
+      "_id": "6549b015b112d6ebb0bc651f",
+      "scoreName": "Final exam",
+      "grade": "9"
+  },
+  {
+      "_id": "6549b015b112d6ebb0bc6520",
+      "scoreName": "Final Exam Resit",
+      "grade": ""
+  }
+]

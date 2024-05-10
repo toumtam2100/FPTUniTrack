@@ -1,0 +1,22 @@
+[
+  {
+      "_id": "654ae17d8bf07017f9d66e8b",
+      "scoreName": "Assignments/Exercises",
+      "grade": "9"
+  },
+  {
+      "_id": "654ae17d8bf07017f9d66e8c",
+      "scoreName": "Progress Test",
+      "grade": "9"
+  },
+  {
+      "_id": "654ae17d8bf07017f9d66e8d",
+      "scoreName": "Final exam",
+      "grade": "9"
+  },
+  {
+      "_id": "654ae17d8bf07017f9d66e8e",
+      "scoreName": "Final Exam Resit",
+      "grade": ""
+  }
+]

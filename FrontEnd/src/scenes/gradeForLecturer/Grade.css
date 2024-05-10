@@ -1,0 +1,25 @@
+.centered-table {
+  margin-top: 2%;
+  margin-left: 0.5%;
+  width: 50%;
+  border-collapse: collapse;
+  text-align: center;
+}
+
+.centered-cell {
+  padding: 8px;
+  text-align: center;
+}
+.left-aligned-cell {
+  padding: 8px;
+  text-align: left;
+}
+.table-container {
+  position: relative;
+}
+
+thead {
+  position: sticky;
+  top: 0;
+ 
+}
